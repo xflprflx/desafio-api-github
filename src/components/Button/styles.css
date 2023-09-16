@@ -1,0 +1,9 @@
+.btn-custom {
+    padding: 8px 18px;
+    color: var(--white);
+    transition: all .5s ease;
+}
+
+.btn-custom:hover {
+    color: var(--white);
+}
